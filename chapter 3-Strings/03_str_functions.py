@@ -1,0 +1,10 @@
+name = "alihamza"
+print(len(name))
+print(name.startswith("a"))
+print(name.endswith("a"))
+print(name.upper())
+print(name.lower())
+print(name.capitalize())
+print(name.title())
+print(name.strip())
+print(name.replace("a", "A"))      

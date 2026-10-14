@@ -1,0 +1,67 @@
+{
+  "name": "Ali Motors",
+  "vehicles": [
+    {
+      "type": "Car",
+      "vehicle_id": "VEH-00C731",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2022,
+      "price": 6500000.0,
+      "color": "White",
+      "mileage": 15000,
+      "status": "available",
+      "doors": 4,
+      "transmission": "Auto",
+      "fuel": "Petrol"
+    },
+    {
+      "type": "Bike",
+      "vehicle_id": "VEH-64EDF6",
+      "make": "Honda",
+      "model": "CD 70",
+      "year": 2024,
+      "price": 190000.0,
+      "color": "Red",
+      "mileage": 0,
+      "status": "available",
+      "engine_cc": 70,
+      "bike_type": "Standard"
+    },
+    {
+      "type": "Car",
+      "vehicle_id": "VEH-1FE2F8",
+      "make": "toyota",
+      "model": "2012",
+      "year": 2012,
+      "price": 2000000.0,
+      "color": "black",
+      "mileage": 10000,
+      "status": "available",
+      "doors": 4,
+      "transmission": "manual",
+      "fuel": "petrol"
+    }
+  ],
+  "customers": [
+    {
+      "person_id": "CUS-A9B8C7",
+      "name": "ali hamza",
+      "phone": "783632914",
+      "email": "muhammadali",
+      "cnic": "7462386941",
+      "purchases": []
+    }
+  ],
+  "staff": [
+    {
+      "person_id": "EMP-0D4C7D",
+      "name": "Ahmed Khan",
+      "phone": "0300-1111111",
+      "email": "",
+      "commission_rate": 0.02,
+      "total_commission": 0.0
+    }
+  ],
+  "sales": []
+}
